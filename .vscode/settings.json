@@ -1,0 +1,12 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\Buela_gnanaraj\\esp\\v5.4\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\Buela_gnanaraj\\.espressif",
+    "idf.pythonInstallPath": "C:\\Users\\Buela_gnanaraj\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "files.associations": {
+        "freertos.h": "c",
+        "freertosconfig.h": "c"
+    },
+    "idf.flashType": "UART",
+    "idf.portWin": "COM3"
+}
